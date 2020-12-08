@@ -1,0 +1,26 @@
+{
+    "name": "aio_downloader",
+    "author": "gudaolingshi",
+    "author_email": "shengleibu@163.com",
+    "url": "https://xx.org/",
+    "license": "MIT",
+
+    "description": "an async donwloader with muti-coroutine",
+    "keywords": "video downloader, async",
+
+    "classifiers": [
+        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python3",
+        "Intended Audience :: Developers",
+        "Operating System :: OS Independent"
+    ],
+    
+    "console_scripts": [
+        "aio-download=aio_downloader:main"
+    ],
+
+    "install_requires": [
+        "aiohttp",
+        "aiofiles"
+    ]
+}
