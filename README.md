@@ -1,4 +1,4 @@
-# **Aio-Downloaer **
+# Aio-Downloaer
 ---
 Aio-downloader is small async downloader with muti-coroutine. With this downloader you downlaod videos, audios, images from the web. Now this aio-downloader offer three way to download media:
 
@@ -84,7 +84,7 @@ optional arguments:
 
 ### Download videos by file
 
-Do not want use redis? aio-downloader also offer file way to store videos links, file should be json like:
+Do not want to use redis? aio-downloader also offer file way to store videos links, file should be json like:
 
 ```json
 {"url": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"}
