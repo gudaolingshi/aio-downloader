@@ -1,6 +1,6 @@
 # Aio-Downloaer
 ---
-Aio-downloader is small async downloader with muti-coroutine. With this downloader you downlaod videos, audios, images from the web. Now this aio-downloader offer three way to download media:
+Aio-downloader is small async downloader with muti-coroutine. With this downloader you downlaod videos, audios, images from the web. Now this aio-downloader offers three ways to download media:
 
 - download videos with cmdline
 - download videos with getting task data from redis
